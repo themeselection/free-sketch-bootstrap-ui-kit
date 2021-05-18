@@ -30,7 +30,7 @@ Sketch Bootstrap UI Kit helps you to easily set up colors, typography & border r
 |--|--|
 | Download Sketch | https://themeselection.com/products/free-sketch-bootstrap-ui-kit/ |
 | Download Figma |  https://themeselection.com/products/free-figma-bootstrap-ui-kit/ |
-| Youtube | https://www.youtube.com/embed/CmnBm7yNE5A |
+| Youtube | https://youtu.be/CmnBm7yNE5A |
 
 
 ## Credits 🤘
