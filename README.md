@@ -8,10 +8,10 @@
 **[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/)** comprising of 300+ organized Bootstrap 5 components built with atomic design system & smart layout. Kick start your next Sketch project in no time. 
 
 ### A Complete Sketch UI Kit 😎
-Sketch Bootstrap UI Kit is a comprehensive and easy-to-use Sketch Library with organized symbols & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
+[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/) is a comprehensive and easy-to-use Sketch Library with organized symbols & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
 
-### Design with Auto Layout 😍
-Auto Layout helps you to design your website or application faster and saves hours of work! 
+### Design with Smart Layout 😍
+Smart Layout helps you to design your website or application faster and saves hours of work! 
 
 ### Effortless Resizing 😱
 Resize any components horizontally or vertically like a pro! 
@@ -48,7 +48,7 @@ Sketch Bootstrap UI Kit helps you to easily set up colors, typography & border r
 
 ## Looking For Premium Bootstrap Admin Templates ??
 
-**[ThemeSelection](https://themeselection.com/)** provides Selected high quality, modern design, professional and easy-to-use [Free Bootstrap Admin Template](https://themeselection.com/), HTML Themes and UI Kits to create your applications faster!.
+**[ThemeSelection](https://themeselection.com/)** provides Selected high quality, modern design, professional and easy-to-use Free Bootstrap Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster!.
 
 ## Useful Links 🔗
 
