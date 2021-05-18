@@ -1,14 +1,14 @@
-# [Free Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/)
+# [Free Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/)
 #### Design faster with a collection of prebuilt Sketch symbols with powerful smart layout and resizing constraints.
 
-[![free-skectch-bootstrap5-ui-kit](https://user-images.githubusercontent.com/749684/118599573-6116e080-b7cd-11eb-9694-319ecfca3770.jpeg)](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/)
+[![free-sketch-bootstrap5-ui-kit](https://user-images.githubusercontent.com/749684/118599573-6116e080-b7cd-11eb-9694-319ecfca3770.jpeg)](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/)
 
 
 ### Why Sketch Bootstrap UI Kit? 🎉
-**[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/)** comprising of 300+ organized Bootstrap 5 components built with atomic design system & smart layout. Kick start your next Sketch project in no time. 
+**[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/)** comprising of 300+ organized Bootstrap 5 components built with atomic design system & smart layout. Kick start your next Sketch project in no time. 
 
 ### A Complete Sketch UI Kit 😎
-[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/) is a comprehensive and easy-to-use Sketch Library with organized symbols & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
+[Sketch Bootstrap UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) is a comprehensive and easy-to-use Sketch Library with organized symbols & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
 
 ### Design with Smart Layout 😍
 Smart Layout helps you to design your website or application faster and saves hours of work! 
@@ -28,9 +28,9 @@ Sketch Bootstrap UI Kit helps you to easily set up colors, typography & border r
 
 | Bootstrap 5 UI Kit | URL |
 |--|--|
-| Download Sketch | https://themeselection.com/products/free-skectch-bootstrap-ui-kit/ |
-| Download Sketch |  https://themeselection.com/products/free-sketch-bootstrap-ui-kit/ |
-| Youtube | https://www.youtube.com/watch?v=PFdHrSmLcZQ&t=1s |
+| Download Sketch | https://themeselection.com/products/free-sketch-bootstrap-ui-kit/ |
+| Download Figma |  https://themeselection.com/products/free-figma-bootstrap-ui-kit/ |
+| Youtube | https://www.youtube.com/embed/CmnBm7yNE5A |
 
 
 ## Credits 🤘
@@ -40,7 +40,7 @@ Sketch Bootstrap UI Kit helps you to easily set up colors, typography & border r
 
 ## Copyright and license ©
 
-[Free Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-skectch-bootstrap-ui-kit/) is an open source project by [ThemeSelection](https://themeselection.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). ThemeSelection reserves the right to change the license of future releases.
+[Free Sketch Bootstrap 5 UI Kit](https://themeselection.com/products/free-sketch-bootstrap-ui-kit/) is an open source project by [ThemeSelection](https://themeselection.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). ThemeSelection reserves the right to change the license of future releases.
 
 ## Note 📒
 
